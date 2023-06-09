@@ -10,7 +10,7 @@ This is a web based application developed for skin beatuy related based website 
 
 ### Azure Technologies used for Project
       • Static web apps
-      •Azure Health Bot
+      • Azure Health Bot
       
 ## Features and Functionalities 😊
 
