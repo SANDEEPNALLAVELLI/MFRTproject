@@ -42,9 +42,10 @@ There are many spas and beauty salons to choose from. You can search for one nea
 ![Screenshot 2023-06-09 234830](https://github.com/SANDEEPNALLAVELLI/MFRTproject/assets/131253322/c3307e1b-95d9-4620-8209-90a2f78ba834)
 
 **Tech Stack
- •  Azure(Hosting)
- •  HTML
- •  CSS
- •  Bootstrap
- •  javaScript
+
+  •  Azure(Hosting)
+  •  HTML
+  •  CSS
+  •  Bootstrap
+  •  javaScript
  
