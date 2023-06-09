@@ -8,7 +8,7 @@ This is a web based application developed for skin beatuy related based website 
 ## Project Demo Link -
 
 
-###Azure Technologies used for Project
+### Azure Technologies used for Project
       • Static web apps
       •Azure Health Bot
       
