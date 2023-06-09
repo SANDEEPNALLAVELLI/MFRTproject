@@ -44,8 +44,12 @@ There are many spas and beauty salons to choose from. You can search for one nea
 **Tech Stack
 
   •  Azure(Hosting)
+  
   •  HTML
+  
   •  CSS
+  
   •  Bootstrap
+  
   •  javaScript
  
