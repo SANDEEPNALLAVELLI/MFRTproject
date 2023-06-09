@@ -14,7 +14,8 @@ This is a web based application developed for skin beatuy related based website 
       
 ## Features and Functionalities 😊
 
-  • Skin Beauty and Spa
+  ### Skin Beauty and Spa
+  
 Skin beauty and spa services offer a range of therapeutic and rejuvenating face and body treatments, using only the best skincare products with the finest ingredients. These services are designed to replenish, rejuvenate, and revitalize your skin 1.
 
   • Spa Services
@@ -26,7 +27,7 @@ Beauty services can include skincare treatments, hair styling and cuts, manicure
 
   • Finding a Spa or Beauty Salon
 There are many spas and beauty salons to choose from. You can search for one near you or ask for recommendations from friends or family. Some popular salon chains in India include Naturals Salon 1 and Bodycraft Salon 3.
-**screenshots : 
+##screenshots : 
 
 
   ![Screenshot 2023-06-09 234310](https://github.com/SANDEEPNALLAVELLI/MFRTproject/assets/131253322/92054a15-a321-46f6-bbfb-ecea2fe97028)
