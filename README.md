@@ -1,4 +1,4 @@
-#  ✨  MFRTproject  ✨
+#  ✨  SKIN BEAUTY ✨
 This is a web based application developed for skin beatuy related based website in india
 
 **This web based skin beauty application has been developed for the accomplishment of Future TReady Talent Internship program launched by Microsoft,Future Skills Prime,Quess,Github and EY.
@@ -8,11 +8,11 @@ This is a web based application developed for skin beatuy related based website 
 **Project Demo Link -
 
 
-**Azure Technologies used for Project
+###Azure Technologies used for Project
       • Static web apps
       •Azure Health Bot
       
-**Features and Functionalities 😊
+## Features and Functionalities 😊
 
   • Skin Beauty and Spa
 Skin beauty and spa services offer a range of therapeutic and rejuvenating face and body treatments, using only the best skincare products with the finest ingredients. These services are designed to replenish, rejuvenate, and revitalize your skin 1.
