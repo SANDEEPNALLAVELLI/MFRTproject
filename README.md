@@ -5,7 +5,7 @@ This is a web based application developed for skin beatuy related based website 
 
 ## [Project Link](https://victorious-sea-00a1f8800.3.azurestaticapps.net)
 
-## Project Demo Link -
+## Project Demo Link -  https://youtu.be/Ajc0bsrzh24
 
 
 ### Azure Technologies used for Project
