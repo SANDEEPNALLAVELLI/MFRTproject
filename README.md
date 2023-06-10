@@ -3,7 +3,7 @@ This is a web based application developed for skin beatuy related based website 
 
 ### This web based skin beauty application has been developed for the accomplishment of Future TReady Talent Internship program launched by Microsoft,Future Skills Prime,Quess,Github and EY.
 
-## [Project Link](https://victorious-sea-00a1f8800.3.azurestaticapps.net)
+## Project Link - https://victorious-sea-00a1f8800.3.azurestaticapps.net
 
 ## Project Demo Link -  https://youtu.be/Ajc0bsrzh24
 
